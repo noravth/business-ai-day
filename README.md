@@ -9,6 +9,8 @@ With the [SAP AI Launchpad - Generative AI Hub Playground](https://sapit-core-pl
 
 In this CodeJam ([Generative AI CodeJam](https://github.com/SAP-samples/generative-ai-codejam/tree/main)) you can find everything you need to know about using the Python SDK of Generative AI Hub to implement a RAG use case with SAP HANA Cloud vector engine. Check out the second exercise ([prompt engineering using SAP AI Launchpad and Generative AI Hub](https://github.com/SAP-samples/generative-ai-codejam/blob/main/exercises/02-explore-genai-hub.md)) to learn about SAP AI Launchpad and prompt engineering.
 
+On [https://www.promptingguide.ai/](https://www.promptingguide.ai/) you can find a lot more information on prompt engineering techniques.
+
 ## Exercise 2 - SAP AI Services - Document Information Extraction
 With the SAP AI Service [Document Information Extraction (DOX)](https://help.sap.com/docs/document-information-extraction/document-information-extraction/what-is-document-information-extraction) you can extract information and fields from documents. Check out this ([Document Information Extraction](https://github.com/noravth/may-developer-challenge-sap-ai-services/tree/main)) repository to learn how to use the UI and the Python SDK.
 
