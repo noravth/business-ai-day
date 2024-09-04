@@ -1,12 +1,12 @@
-# Business AI tutorials overview
+# Business AI Tutorials Overview
 In this repository you can find exercises and information on different technologies of SAP's Business AI portfolio, including Generative AI Hub, SAP AI Services and Joule. 
 
 On the [Business AI Sharepoint](https://sap.sharepoint.com/sites/208497) you can find more information.
 
-## Exercise 1 - Prompt engineering using SAP AI Launchpad and Generative AI Hub
-[SAP AI Launchpad - Generative AI Hub Playground](https://sapit-core-playground-vole.ai-launchpad.prod.eu-central-1.aws.apps.ml.hana.ondemand.com/aic/index.html#/generativeaihub?workspace=sap-genai-xl&resourceGroup=default&/g/prompteditor)
+## Exercise 1 - Prompt Engineering using SAP AI Launchpad and Generative AI Hub
+With the [SAP AI Launchpad - Generative AI Hub Playground](https://sapit-core-playground-vole.ai-launchpad.prod.eu-central-1.aws.apps.ml.hana.ondemand.com/aic/index.html#/generativeaihub?workspace=sap-genai-xl&resourceGroup=default&/g/prompteditor) every employee can access all LLMs that are available through Generative AI Hub. Whatever SAP does or you want to do with LLMs should go through Generative AI Hub. This way we can ensure to comply with security standards.
 
-[prompt engineering using SAP AI Launchpad and Generative AI Hub](https://github.com/noravth/business-ai-day/blob/main/exercises/prompt-engineering-using-SAP-AI-Launchpad-and-Generative-AI-Hub.md)
+In this CodeJam ([Generative AI CodeJam](https://github.com/SAP-samples/generative-ai-codejam/tree/main)) you can find everything you need to know about using the Python SDK of Generative AI Hub to implement a RAG use case with SAP HANA Cloud vector engine. Check out the second exercise ([prompt engineering using SAP AI Launchpad and Generative AI Hub](https://github.com/SAP-samples/generative-ai-codejam/blob/main/exercises/02-explore-genai-hub.md)) to learn about SAP AI Launchpad and prompt engineering.
 
 ## Exercise 2 - SAP AI Services - Document Information Extraction
 [Document Information Extraction](https://github.com/noravth/may-developer-challenge-sap-ai-services/tree/main)
