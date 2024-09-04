@@ -16,7 +16,7 @@ Another SAP AI Service is [Data Attribute Recommendation (DAR)](https://help.sap
 
 ## Exercise 4 - Joule
 In this exercise you will learn how to implement a custom Joule capability. The example below adds a weather API to Joule. 
-- First you need to install the Joule CLI.
+- First you need to install the Joule CLI
 [Install Joule CLI](https://help.sap.com/docs/joule/service-guide/install-and-update-command-line-interface)
 - Here are more infos on Joule capabilities
 [Infos on Joule](https://help.sap.com/docs/joule/joule-guide/build-capability?state=DRAFT&version=DEV)
