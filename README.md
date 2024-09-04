@@ -13,5 +13,8 @@ On the [Business AI Sharepoint](https://sap.sharepoint.com/sites/208497) you can
 [Data Attribute Recommendation - Training a regression model](https://community.sap.com/t5/application-development-discussions/may-developer-challenge-sap-ai-services-week-3/td-p/13701838)
 
 ## Exercise 4 - Joule
+[Install Joule CLI](https://help.sap.com/docs/joule/service-guide/install-and-update-command-line-interface)
+
 [Infos on Joule](https://help.sap.com/docs/joule/joule-guide/build-capability?state=DRAFT&version=DEV)
+
 [Joule exercise repo](https://github.tools.sap/DAS-Samples/joule-functions-example/blob/main/tutorials/weather/index.md)
