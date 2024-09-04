@@ -1,5 +1,7 @@
 # Business AI tutorials overview
-In this repository you can find exercises and information on different technologies of SAP's Business AI portfolio, including Generative AI Hub, SAP AI Services and Joule.
+In this repository you can find exercises and information on different technologies of SAP's Business AI portfolio, including Generative AI Hub, SAP AI Services and Joule. 
+
+On the [Business AI Sharepoint](https://sap.sharepoint.com/sites/208497) you can find more information.
 
 ## Exercise 1 - prompt engineering using SAP AI Launchpad and Generative AI Hub
 [prompt engineering using SAP AI Launchpad and Generative AI Hub](https://github.com/noravth/business-ai-day/blob/main/exercises/prompt-engineering-using-SAP-AI-Launchpad-and-Generative-AI-Hub.md)
