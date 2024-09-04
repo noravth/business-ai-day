@@ -12,7 +12,7 @@ In this CodeJam ([Generative AI CodeJam](https://github.com/SAP-samples/generati
 On [https://www.promptingguide.ai/](https://www.promptingguide.ai/) you can find a lot more information on prompt engineering techniques.
 
 ## Exercise 2 - SAP AI Services - Document Information Extraction
-With the SAP AI Service [Document Information Extraction (DOX)](https://help.sap.com/docs/document-information-extraction/document-information-extraction/what-is-document-information-extraction) you can extract information and fields from documents. Check out this ([Document Information Extraction](https://github.com/noravth/may-developer-challenge-sap-ai-services/tree/main)) repository to learn how to use the UI and the Python SDK.
+With the SAP AI Service [Document Information Extraction (DOX)](https://help.sap.com/docs/document-information-extraction/document-information-extraction/what-is-document-information-extraction) you can extract information and fields from documents. Check out [this repository](https://github.com/noravth/may-developer-challenge-sap-ai-services/tree/main) to learn how to use the UI and the Python SDK.
 
 ## Exercise 3 - SAP AI Services - Data Attribute Recommendation
 Another SAP AI Service is [Data Attribute Recommendation (DAR)](https://help.sap.com/docs/data-attribute-recommendation/data-attribute-recommendation/what-is-data-attribute-recommendation). Here you can find example code to train a regression model using DAR: [Data Attribute Recommendation - Training a regression model](https://community.sap.com/t5/application-development-discussions/may-developer-challenge-sap-ai-services-week-3/td-p/13701838)
