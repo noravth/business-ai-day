@@ -27,11 +27,11 @@ In this exercise you will learn how to implement a custom Joule capability. The 
 [Install Joule CLI](https://help.sap.com/docs/joule/service-guide/install-and-update-command-line-interface)
 - Here are more infos on Joule capabilities
 [Infos on Joule](https://help.sap.com/docs/joule/joule-guide/build-capability?state=DRAFT&version=DEV)
-- To login to Joule run this command:
-```sh
-  joule login --apiurl 'add the Joule application url here' -a 'add the authentication url here' -c 'add the client id here' -s 'add the client secret here' -u 'your email' -p 'your password'
-```
-
 - This is the exercise reporitory. You also need to clone the repository.
 [Joule exercise repo](https://github.tools.sap/DAS-Samples/joule-functions-example/blob/main/tutorials/weather/index.md)
+- To login to Joule run this command:
+```sh
+  joule login --apiurl 'add the Joule application url here' -a 'add the authentication url here'
+         -c 'add the client id here' -s 'add the client secret here' -u 'your email' -p 'your password'
+```
 - [Only internal info on Joule architecture](https://github.tools.sap/CentralEngineering/TechnologyGuidelines/tree/main/tg24)
