@@ -7,6 +7,8 @@ On the **SAP Developer YouTube channel** you can find video tutorials for the Py
 Also make sure signt up for **Devtoberfest** and check out the [Devtoberfest events calendar](https://community.sap.com/t5/devtoberfest/eb-p/devtoberfest-events).
 We also have a lot of [SAP CodeJams](https://community.sap.com/t5/sap-codejam/gh-p/code-jam) with a lot of interessting topics!
 
+[Here](https://github.tools.sap/I545048/ai-core-cookbook) you can find a lot of cool use cases!
+
 ## Exercise 1 - Prompt Engineering using SAP AI Launchpad and Generative AI Hub
 With the [SAP AI Launchpad - Generative AI Hub Playground](https://sapit-core-playground-vole.ai-launchpad.prod.eu-central-1.aws.apps.ml.hana.ondemand.com/aic/index.html#/generativeaihub?workspace=sap-genai-xl&resourceGroup=default&/g/prompteditor) every employee can access all LLMs that are available through Generative AI Hub. Whatever SAP does or you want to do with LLMs should go through Generative AI Hub. This way we can ensure to comply with security standards.
 
