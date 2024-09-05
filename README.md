@@ -15,7 +15,7 @@ In this CodeJam ([Generative AI CodeJam](https://github.com/SAP-samples/generati
 On [https://www.promptingguide.ai/](https://www.promptingguide.ai/) you can find a lot more information on prompt engineering techniques.
 
 ## Exercise 2 - SAP AI Services - Document Information Extraction
-Use Business Application Studio in your [Subaccount](https://emea.cockpit.btp.cloud.sap/cockpit/#/globalaccount/dfe5a086-f733-4955-8025-542e118e3e69/subaccount/8d188125-e96e-4e02-96d2-28e4b8606f06/service-instances) to implement the Python use cases unless you have Python installed on your machine.
+Use Business Application Studio in your [Subaccount](https://emea.cockpit.btp.cloud.sap/cockpit/#/globalaccount/dfe5a086-f733-4955-8025-542e118e3e69/subaccount/8d188125-e96e-4e02-96d2-28e4b8606f06/service-instances) to implement the Python use cases unless you have Python installed on your machine or you can create a BAS subscription in your SAP BTP trial account.
 
 With the SAP AI Service [Document Information Extraction (DOX)](https://help.sap.com/docs/document-information-extraction/document-information-extraction/what-is-document-information-extraction) you can extract information and fields from documents. Check out [this repository](https://github.com/noravth/may-developer-challenge-sap-ai-services/tree/main) to learn how to use the UI and the Python SDK.
 
