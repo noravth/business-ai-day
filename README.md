@@ -21,10 +21,17 @@ Another SAP AI Service is [Data Attribute Recommendation (DAR)](https://help.sap
 
 ## Exercise 4 - Joule
 In this exercise you will learn how to implement a custom Joule capability. The example below adds a weather API to Joule. 
-- First you need to install the Joule CLI
+
+- First you need to create your password for Joule. Therefore click on the Joule Application in BTP, say password forgotten and create a new password.
+- Then you need to install the Joule CLI
 [Install Joule CLI](https://help.sap.com/docs/joule/service-guide/install-and-update-command-line-interface)
 - Here are more infos on Joule capabilities
 [Infos on Joule](https://help.sap.com/docs/joule/joule-guide/build-capability?state=DRAFT&version=DEV)
-- This is the exercise reporitory
+- To login to Joule run this command:
+'''sh
+  joule login --apiurl 'add the Joule application url here' -a 'add the authentication url here' -c 'add the client id here' -s 'add the client secret here' -u 'your email' -p 'your password'
+'''
+
+- This is the exercise reporitory. You also need to clone the repository.
 [Joule exercise repo](https://github.tools.sap/DAS-Samples/joule-functions-example/blob/main/tutorials/weather/index.md)
 - [Only internal info on Joule architecture](https://github.tools.sap/CentralEngineering/TechnologyGuidelines/tree/main/tg24)
