@@ -25,3 +25,4 @@ In this exercise you will learn how to implement a custom Joule capability. The 
 [Infos on Joule](https://help.sap.com/docs/joule/joule-guide/build-capability?state=DRAFT&version=DEV)
 - This is the exercise reporitory
 [Joule exercise repo](https://github.tools.sap/DAS-Samples/joule-functions-example/blob/main/tutorials/weather/index.md)
+- [Only internal info on Joule architecture](https://github.tools.sap/CentralEngineering/TechnologyGuidelines/tree/main/tg24)
