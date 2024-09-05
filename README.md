@@ -2,7 +2,10 @@
 In this repository you can find exercises and information on different technologies of SAP's Business AI portfolio, including Generative AI Hub, SAP AI Services and Joule. 
 
 On the [Business AI Sharepoint](https://sap.sharepoint.com/sites/208497) you can find more information.
-On the SAP Developer YouTube channel you can find video tutorials for the Python SDK of GenAI Hub and the CAP-LLM-Plugin and more ([SAP AI YouTube playlist](https://www.youtube.com/playlist?list=PL6RpkC85SLQCDxe58RfZaLCcPqcgwTIhj)).
+
+On the **SAP Developer YouTube channel** you can find video tutorials for the Python SDK of GenAI Hub and the CAP-LLM-Plugin and more ([SAP AI YouTube playlist](https://www.youtube.com/playlist?list=PL6RpkC85SLQCDxe58RfZaLCcPqcgwTIhj)).
+Also make sure signt up for **Devtoberfest** and check out the [Devtoberfest events calendar](https://community.sap.com/t5/devtoberfest/eb-p/devtoberfest-events).
+We also have a lot of [SAP CodeJams](https://community.sap.com/t5/sap-codejam/gh-p/code-jam) with a lot of interessting topics!
 
 ## Exercise 1 - Prompt Engineering using SAP AI Launchpad and Generative AI Hub
 With the [SAP AI Launchpad - Generative AI Hub Playground](https://sapit-core-playground-vole.ai-launchpad.prod.eu-central-1.aws.apps.ml.hana.ondemand.com/aic/index.html#/generativeaihub?workspace=sap-genai-xl&resourceGroup=default&/g/prompteditor) every employee can access all LLMs that are available through Generative AI Hub. Whatever SAP does or you want to do with LLMs should go through Generative AI Hub. This way we can ensure to comply with security standards.
